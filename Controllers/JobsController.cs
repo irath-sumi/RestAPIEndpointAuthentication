@@ -1,12 +1,12 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using SalesLiftPOC.Interface;
-using SalesLiftPOC.Models;
+using APIEndpointAuthentication.Interface;
+using APIEndpointAuthentication.Models;
 
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace SalesLiftPOC.Controllers
+namespace APIEndpointAuthentication.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

@@ -1,6 +1,6 @@
-﻿using SalesLiftPOC.Models;
+﻿using APIEndpointAuthentication.Models;
 
-namespace SalesLiftPOC.Interface
+namespace APIEndpointAuthentication.Interface
 {
     public interface IJobsRepository
     {

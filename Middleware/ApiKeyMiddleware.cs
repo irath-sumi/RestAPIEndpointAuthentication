@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace SalesLiftPOC.Middleware
+namespace APIEndpointAuthentication.Middleware
 {
     /// <summary>
     /// The middleware class must include:

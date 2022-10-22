@@ -1,8 +1,8 @@
-using SalesLiftPOC.Models;
+using APIEndpointAuthentication.Models;
 using Microsoft.EntityFrameworkCore;
-using SalesLiftPOC.Repository;
-using SalesLiftPOC.Interface;
-using SalesLiftPOC.Middleware;
+using APIEndpointAuthentication.Repository;
+using APIEndpointAuthentication.Interface;
+using APIEndpointAuthentication.Middleware;
 using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Authorization;
 

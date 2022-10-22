@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "SalesLiftPOC": {
+    "APIEndpointAuthentication": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

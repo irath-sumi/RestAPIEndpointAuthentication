@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace SalesLiftPOC.Models
+namespace APIEndpointAuthentication.Models
 {
     public class AppDbContext :DbContext
     {

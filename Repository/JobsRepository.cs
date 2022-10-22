@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SalesLiftPOC.Interface;
-using SalesLiftPOC.Models;
+using APIEndpointAuthentication.Interface;
+using APIEndpointAuthentication.Models;
 
 
-namespace SalesLiftPOC.Repository
+namespace APIEndpointAuthentication.Repository
 {
     public class JobsRepository : IJobsRepository
     {

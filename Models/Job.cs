@@ -1,4 +1,4 @@
-﻿namespace SalesLiftPOC.Models
+﻿namespace APIEndpointAuthentication.Models
 {
     public class Job
     {
