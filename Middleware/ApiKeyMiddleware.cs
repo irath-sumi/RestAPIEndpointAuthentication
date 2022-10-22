@@ -33,7 +33,7 @@ namespace SalesLiftPOC.Middleware
                 // Set the content type
                 context.Response.ContentType = "application/text; charset=utf-8";
 
-                await context.Response.WriteAsync("Api Key was not provided ");
+                await context.Response.WriteAsync("Api Key was not provided!!");
                 return;
             }
             var appSettings = context.RequestServices.GetRequiredService<IConfiguration>();
